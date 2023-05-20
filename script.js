@@ -46,7 +46,7 @@ controls.autoRotate = true;
 controls.minDistance = 1;
 controls.maxDistance = 10;
 
-// Cube
+// Objects
 const cube = new THREE.Mesh(
     new THREE.BoxGeometry(1, 1, 1),
     new THREE.MeshBasicMaterial({ color: 0xe6447d })
